@@ -1,7 +1,7 @@
 #ipcam.py
 import sys
-sys.path.append(r'C:\Users\dledb\Anaconda3\Lib\site-packages')
-sys.path.append(r'C:\darknet\build\darknet\x64')
+#sys.path.append(r'C:\Users\dledb\Anaconda3\Lib\site-packages')
+#sys.path.append(r'C:\darknet\build\darknet\x64')
 # opencv object tracking
 # object detection and tracking opencv
 import cv2
