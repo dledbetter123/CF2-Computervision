@@ -10,7 +10,8 @@ import numpy as np
 
 """
 
- update these to the location of the files on your computer - David
+ update the below yolo weight and config files to the location of the files on your computer.
+ After installing darknet it is usually in a "darknet" folder  - David
 
 """
 yolo_weight = r"C:\darknet\build\darknet\x64\yolov4.weights"
